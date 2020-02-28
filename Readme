@@ -6,7 +6,7 @@ https://shift.infinite.red/getting-started-with-react-native-development-on-wind
 2.Download/clone the project from GitHub
 3.Go to command line and do:
 >> npm install (for iOS >> cd ios && pod install) 
->> react-native run-android( for iOS >>react-native run-its)
+>> react-native run-android( for iOS >>react-native run-ios)
 
 Note: If clone does not work, follow these steps
 
