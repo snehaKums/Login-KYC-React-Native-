@@ -1,0 +1,17 @@
+1.Prerequisites
+You should have react native installed in system. If you don’t have refer 
+https://reactnative.dev/docs/getting-started.html
+https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65
+
+2.Download/clone the project from GitHub
+3.Go to command line and do:
+>> npm install (for iOS >> cd ios && pod install) 
+>> react-native run-android( for iOS >>react-native run-its)
+
+Note: If clone does not work, follow these steps
+
+1. Create new project >> react-native init ProjectName( from command line)
+2. Replace App.js 
+3. Copy src folder
+4. Download all the dependency in package.json (under dependencies) by doing npm install (pod install for iOS)using command line.
+5. Run the app.
