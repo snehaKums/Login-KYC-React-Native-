@@ -1,0 +1,449 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "paddingTop": 50,
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../src/assets/images/avatar.jpeg",
+      }
+    }
+    style={
+      Object {
+        "height": "50%",
+        "marginLeft": "30%",
+        "marginTop": 5,
+        "resizeMode": "contain",
+        "width": "50%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "marginBottom": -30,
+        "marginTop": -20,
+        "padding": 15,
+      }
+    }
+  >
+    <View
+      onResponderRelease={[Function]}
+      onStartShouldSetResponder={[Function]}
+      pointerEvents="auto"
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "flex-end",
+            "flexDirection": "row",
+            "height": 64,
+            "paddingBottom": 8,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 16,
+          }
+        }
+      >
+        <View
+          pointerEvents="none"
+          style={
+            Object {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "borderColor": "rgba(0, 0, 0, 0.38)",
+                "borderStyle": "solid",
+                "borderWidth": 0.5,
+                "bottom": 0,
+                "left": -1.5,
+                "position": "absolute",
+                "right": -1.5,
+                "top": -1.5,
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "alignSelf": "stretch",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "left": "-100%",
+                "paddingLeft": "50%",
+                "position": "absolute",
+                "top": 0,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                  Object {
+                    "translateY": 20,
+                  },
+                  Object {
+                    "translateX": 0,
+                  },
+                ],
+                "width": "200%",
+              }
+            }
+          >
+            <Text
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "rgba(0, 0, 0, 0.38)",
+                  "fontSize": 16,
+                  "includeFontPadding": false,
+                  "lineHeight": 16,
+                  "textAlign": "left",
+                  "textAlignVertical": "top",
+                }
+              }
+            >
+              Username
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "flex-end",
+                "flex": 1,
+                "flexDirection": "row",
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={true}
+              autoCapitalize="none"
+              disableFullscreenUI={true}
+              editable={true}
+              onBlur={[Function]}
+              onChange={[Function]}
+              onChangeText={[Function]}
+              onContentSizeChange={[Function]}
+              onFocus={[Function]}
+              rejectResponderTermination={true}
+              selectionColor="grey"
+              style={
+                Array [
+                  Object {
+                    "flex": 1,
+                    "includeFontPadding": false,
+                    "margin": 0,
+                    "padding": 0,
+                    "paddingTop": 0,
+                    "textAlign": "left",
+                    "textAlignVertical": "top",
+                    "top": 2,
+                  },
+                  Object {
+                    "color": "rgba(0, 0, 0, .87)",
+                    "fontSize": 16,
+                    "height": 24,
+                  },
+                  undefined,
+                ]
+              }
+              underlineColorAndroid="transparent"
+              value=""
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "flex-start",
+              "flexDirection": "row",
+              "justifyContent": "flex-end",
+              "minHeight": 8,
+            },
+            Object {
+              "paddingLeft": 0,
+              "paddingRight": 0,
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "padding": 15,
+      }
+    }
+  >
+    <View
+      onResponderRelease={[Function]}
+      onStartShouldSetResponder={[Function]}
+      pointerEvents="auto"
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "flex-end",
+            "flexDirection": "row",
+            "height": 64,
+            "paddingBottom": 8,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 16,
+          }
+        }
+      >
+        <View
+          pointerEvents="none"
+          style={
+            Object {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "borderColor": "rgba(0, 0, 0, 0.38)",
+                "borderStyle": "solid",
+                "borderWidth": 0.5,
+                "bottom": 0,
+                "left": -1.5,
+                "position": "absolute",
+                "right": -1.5,
+                "top": -1.5,
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "alignSelf": "stretch",
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "left": "-100%",
+                "paddingLeft": "50%",
+                "position": "absolute",
+                "top": 0,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                  Object {
+                    "translateY": 20,
+                  },
+                  Object {
+                    "translateX": 0,
+                  },
+                ],
+                "width": "200%",
+              }
+            }
+          >
+            <Text
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "rgba(0, 0, 0, 0.38)",
+                  "fontSize": 16,
+                  "includeFontPadding": false,
+                  "lineHeight": 16,
+                  "textAlign": "left",
+                  "textAlignVertical": "top",
+                }
+              }
+            >
+              Password
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "flex-end",
+                "flex": 1,
+                "flexDirection": "row",
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={true}
+              autoCapitalize="sentences"
+              disableFullscreenUI={true}
+              editable={true}
+              onBlur={[Function]}
+              onChange={[Function]}
+              onChangeText={[Function]}
+              onContentSizeChange={[Function]}
+              onFocus={[Function]}
+              rejectResponderTermination={true}
+              secureTextEntry={true}
+              selectionColor="grey"
+              style={
+                Array [
+                  Object {
+                    "flex": 1,
+                    "includeFontPadding": false,
+                    "margin": 0,
+                    "padding": 0,
+                    "paddingTop": 0,
+                    "textAlign": "left",
+                    "textAlignVertical": "top",
+                    "top": 2,
+                  },
+                  Object {
+                    "color": "rgba(0, 0, 0, .87)",
+                    "fontSize": 16,
+                    "height": 24,
+                  },
+                  undefined,
+                ]
+              }
+              underlineColorAndroid="transparent"
+              value=""
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "flex-start",
+              "flexDirection": "row",
+              "justifyContent": "flex-end",
+              "minHeight": 8,
+            },
+            Object {
+              "paddingLeft": 0,
+              "paddingRight": 0,
+            },
+          ]
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      isTVSelectable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "height": 80,
+          "marginTop": 10,
+          "opacity": 1,
+          "padding": 2,
+          "position": "absolute",
+          "right": 30,
+          "width": 35,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../src/assets/images/Hide.png",
+          }
+        }
+        style={
+          Object {
+            "height": "80%",
+            "margin": 10,
+            "resizeMode": "contain",
+            "width": "80%",
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    accessible={true}
+    focusable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "flexDirection": "row",
+        "height": 50,
+        "marginTop": 15,
+        "opacity": 1,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#00acee",
+          "height": 50,
+          "justifyContent": "center",
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "alignSelf": "center",
+            "color": "black",
+            "flexWrap": "wrap",
+            "fontSize": 16,
+            "padding": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Login
+      </Text>
+    </View>
+  </View>
+</View>
+`;

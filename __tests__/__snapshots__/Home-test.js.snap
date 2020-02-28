@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View>
+  <Text
+    style={
+      Object {
+        "fontSize": 50,
+        "fontWeight": "bold",
+        "marginTop": "50%",
+        "textAlign": "center",
+      }
+    }
+  >
+    Welcome to Learning Factory
+  </Text>
+  <View
+    accessible={true}
+    focusable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "flexDirection": "row",
+        "height": 50,
+        "marginTop": "60%",
+        "opacity": 1,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#00acee",
+          "height": 50,
+          "justifyContent": "center",
+          "width": "100%",
+        }
+      }
+    >
+      <Text>
+        Next
+      </Text>
+    </View>
+  </View>
+</View>
+`;

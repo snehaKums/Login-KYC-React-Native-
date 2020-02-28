@@ -1,0 +1,171 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "margin": 10,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    Please Enter following Details
+  </Text>
+  <TextInput
+    allowFontScaling={true}
+    onChangeText={[Function]}
+    placeholder="Name"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "borderColor": "#028b53",
+        "borderRadius": 8,
+        "borderWidth": 1,
+        "height": 40,
+        "marginTop": 15,
+        "textAlign": "center",
+        "width": "90%",
+      }
+    }
+    underlineColorAndroid="transparent"
+  />
+  <TextInput
+    allowFontScaling={true}
+    onChangeText={[Function]}
+    placeholder="Gender"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "borderColor": "#028b53",
+        "borderRadius": 8,
+        "borderWidth": 1,
+        "height": 40,
+        "marginTop": 15,
+        "textAlign": "center",
+        "width": "90%",
+      }
+    }
+    underlineColorAndroid="transparent"
+  />
+  <TextInput
+    allowFontScaling={true}
+    keyboardType="numeric"
+    onChangeText={[Function]}
+    placeholder="Date of Birth"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "borderColor": "#028b53",
+        "borderRadius": 8,
+        "borderWidth": 1,
+        "height": 40,
+        "marginTop": 15,
+        "textAlign": "center",
+        "width": "90%",
+      }
+    }
+    underlineColorAndroid="transparent"
+  />
+  <TextInput
+    allowFontScaling={true}
+    onChangeText={[Function]}
+    placeholder="Work Experience"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "borderColor": "#028b53",
+        "borderRadius": 8,
+        "borderWidth": 1,
+        "height": 40,
+        "marginTop": 15,
+        "textAlign": "center",
+        "width": "90%",
+      }
+    }
+    underlineColorAndroid="transparent"
+  />
+  <View
+    accessible={true}
+    focusable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#00acee",
+        "borderRadius": 8,
+        "height": 40,
+        "marginTop": 15,
+        "opacity": 1,
+        "padding": 10,
+        "width": "90%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#fff",
+          "textAlign": "center",
+        }
+      }
+    >
+       Save Details 
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    focusable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "flexDirection": "row",
+        "height": 50,
+        "marginTop": "10%",
+        "opacity": 1,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#00acee",
+          "height": 50,
+          "justifyContent": "center",
+          "width": "100%",
+        }
+      }
+    >
+      <Text>
+        Next
+      </Text>
+    </View>
+  </View>
+</View>
+`;

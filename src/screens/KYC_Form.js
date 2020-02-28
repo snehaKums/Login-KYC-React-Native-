@@ -1,12 +1,5 @@
 import React, {Component} from 'react';
-import {
-  SafeAreaView,
-  StyleSheet,
-  TextInput,
-  View,
-  Text,
-  TouchableOpacity,
-} from 'react-native';
+import {TextInput, View, Text, TouchableOpacity} from 'react-native';
 
 import styles from '../components/styles';
 
